@@ -1,1 +1,8 @@
-# Mitra-Kaustav.github.io
+# Kaustav Mitra
+
+## Current position
+
+## CV
+
+## Research
+Kichhui korini
