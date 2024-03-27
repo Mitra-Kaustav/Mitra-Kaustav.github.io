@@ -15,7 +15,7 @@ My research with <a href="https://campuspress.yale.edu/vdbosch/" target="_blank"
 </div>
 
 
-## Other Pages:
+## For more information, visit:
 - Research
 - Teaching
 - Outreach
