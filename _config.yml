@@ -1,4 +1,5 @@
 # Where things are
+site.name           : Kaustav Mitra
 source              : .
 destination         : ./_site
 collections_dir     : .
