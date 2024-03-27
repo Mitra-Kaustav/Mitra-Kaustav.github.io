@@ -1,8 +1,12 @@
-## Hello, I am Kaustav Mitra.
-### I am a PhD student in the department of Astronomy at Yale University.
-
 | Home | Research | Teaching | Outreach | CV |
 | --- | --- | --- | --- | --- |
+
+---
+
+# Hello, I am Kaustav Mitra.
+### I am a PhD student in the department of Astronomy at Yale University.
+
+
 
 ![alt text](images/headshot.jpg "My photograph.")
 
