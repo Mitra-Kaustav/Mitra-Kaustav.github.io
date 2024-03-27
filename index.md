@@ -2,8 +2,8 @@
 ### I am a PhD student in the department of Astronomy at Yale University.
 
 <div align="center">
-| Home | Research | Teaching | Outreach | CV |
-| :---: | :---: | :---: | :---: | :---: |
+ Home | Research | Teaching | Outreach | CV 
+--- | --- | --- | --- | ---
 </div>
 
 ![alt text](images/headshot.jpg "My photograph.")
