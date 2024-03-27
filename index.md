@@ -1,5 +1,5 @@
-| Home | Research | Teaching | Outreach | CV |
-| --- | --- | --- | --- | --- |
+ Home | Research | Teaching | Outreach | CV 
+ --- | --- | --- | --- | --- 
 
 ___
 
