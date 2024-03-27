@@ -15,6 +15,7 @@ My research with <a href="https://campuspress.yale.edu/vdbosch/" target="_blank"
 </div>
 
 <math>\beta = 1 - \dfrac{\sigma_{\rm t}^2}{2 \sigma_{\rm r}^2}</math>
+{{math|1=''f''(''x'') = ''x''<sup>2</sup>}}
 
 ## Other Pages:
 - Research
