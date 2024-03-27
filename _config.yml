@@ -1,5 +1,6 @@
 # Where things are
-site.name           : Kaustav Mitra
+site.name           : "Kaustav Mitra"
+site.title          : "Kaustav Mitra"
 source              : .
 destination         : ./_site
 collections_dir     : .
