@@ -16,10 +16,3 @@ My research with <a href="https://campuspress.yale.edu/vdbosch/" target="_blank"
 
 
 ________
-
-- Research
-- Teaching
-- Outreach
-- CV
-- Bio
-- Contact
