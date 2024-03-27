@@ -24,6 +24,7 @@ keep_files          : [".git", ".svn"]
 encoding            : "utf-8"
 markdown_ext        : "markdown,mkdown,mkdn,mkd,md"
 strict_front_matter : false
+baseFontFamily      : "Times New Roman"
 
 # Filtering Content
 show_drafts         : null
@@ -73,5 +74,3 @@ kramdown:
   hard_wrap         : false
   footnote_nr       : 1
   show_warnings     : false
-
-  baseFontFamily    : "Times New Roman"
