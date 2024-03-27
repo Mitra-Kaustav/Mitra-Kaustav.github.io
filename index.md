@@ -1,12 +1,8 @@
 ## Hello, I am Kaustav Mitra.
 ### I am a PhD student in the department of Astronomy at Yale University.
 
-<div align="center">
-| Item         | Price | # In stock |
-|--------------|:-----:|-----------:|
-| Juicy Apples |  1.99 |        739 |
-| Bananas      |  1.89 |          6 |
-</div>
+| Home | Research | Teaching | Outreach | CV |
+| --- | --- | --- | --- | --- |
 
 ![alt text](images/headshot.jpg "My photograph.")
 
