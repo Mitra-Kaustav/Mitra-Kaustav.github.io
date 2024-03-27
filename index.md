@@ -1,4 +1,4 @@
-Home | Research | Teaching | Outreach | CV | About Me | Contact
+Home | Research | Teaching | Outreach | CV | Bio | Contact
 --- | --- | --- | --- | --- | --- | ---
 
 _______
